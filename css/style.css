@@ -1,5 +1,22 @@
 @charset "utf-8";
+body {
+	background-color:mediumaquamarine;
+}
 h1 {
-	align-self: center;
-	
+	text-align: center;
+	color:rgb(170,240,209);
+	font-size: 50px;
+	font-weight: bold;
+	border-style: groove;
+
+}
+p {
+	font-size: 20px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+img {
+	border-style: solid;
+	border-color: rgb(240,170,201);
+	margin: 30px;
+	align-content: center;
 }
